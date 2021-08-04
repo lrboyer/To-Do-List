@@ -1,0 +1,47 @@
+.Form {
+color: lightgreen;
+background-color: midnightblue;
+text-align: left;
+font-size: 20px;
+padding: 20px;
+}
+
+.Title {
+font-size: 30px;
+font-weight: bold;
+}
+
+.TitleField {
+height: 20px;
+width: 50%;
+border-radius: 8px;
+}
+
+.DescriptionField {
+height: 60px;
+width: 50%;
+resize: none;
+border-radius: 8px;
+}
+
+.Submit {
+background-color: lightgreen;
+color: midnightblue;
+border-radius: 8px;
+width: 50%;
+cursor: pointer;
+padding: 14px 20px;
+margin: 8px 0;
+}
+
+.Submit:hover {
+background-color: #90ff90;
+}
+
+.boxPressed {
+    background-color:red;
+}
+
+.box {
+    background-color:beige;
+}
